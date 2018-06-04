@@ -5,9 +5,10 @@ All the programs we need to install
 #### In the terminal  
 | Program | MAC | Linux | Windows |  
 | --- | --- | --- | ---- |  
-|  x | Package Manager | [brew](https://docs.brew.sh/Installation) - | [apt-get]() |  
-|  x |  x | `sudo apt install python3` | x |  
-| x | Heroku | brew install heroku/brew/heroku |
+|  Package Manager | x | [brew](https://docs.brew.sh/Installation) - | [apt-get]() |  
+|  Python |  x | `sudo apt install python3` | x |  
+| Heroku | x | `brew install heroku/brew/heroku` | `curl https://cli-assets.heroku.com/install-ubuntu.sh` | [download](https://devcenter.heroku.com/articles/heroku-cli) |
+| Git | git --version | `sudo apt install git-all` | x |
 
 ---
 
@@ -44,6 +45,10 @@ https://www.vim.org/download.php
 
 ## Version Control
 ### Git
++ [Mac](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
++ Linux - $ `sudo apt install git-all`
++ [Windows](https://git-scm.com/download/win)
+
 ### GitHub
 What is your username and password?
 

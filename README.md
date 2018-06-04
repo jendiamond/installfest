@@ -3,11 +3,11 @@ All the programs we need to install
 
 
 #### In the terminal  
-| Program | MAC | Linux | Windows |
-| --- | --- | --- |
-| Package Manager | [brew](https://docs.brew.sh/Installation) - | [apt-get]()
-|  x |  x | `sudo apt install python3` | x |
-| Heroku | brew install heroku/brew/heroku |
+| Program | MAC | Linux | Windows |  
+| --- | --- | --- | ---- |  
+|  x | Package Manager | [brew](https://docs.brew.sh/Installation) - | [apt-get]() |  
+|  x |  x | `sudo apt install python3` | x |  
+| x | Heroku | brew install heroku/brew/heroku |
 
 ---
 

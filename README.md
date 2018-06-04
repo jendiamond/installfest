@@ -22,9 +22,10 @@ https://www.digitalocean.com/community/tutorials/package-management-basics-apt-y
 ### Windows
 https://www.slant.co/topics/1843/~windows-package-managers
 
-### npm
-https://www.npmjs.com/get-npm
+---
 
+## npm
+https://www.npmjs.com/get-npm
 
 #### Check that you have node and npm installed
 

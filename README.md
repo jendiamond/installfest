@@ -23,15 +23,39 @@ https://www.digitalocean.com/community/tutorials/package-management-basics-apt-y
 https://www.slant.co/topics/1843/~windows-package-managers
 
 ### npm
+https://www.npmjs.com/get-npm
+
+
+#### Check that you have node and npm installed
+
+To check if you have Node.js installed, run this command in your terminal:
+
+$ `node -v`
+
+To confirm that you have npm installed you can run this command in your terminal:
+
+$ `npm -v`
+
+#### Install:  https://nodejs.org    
+#### Docs: https://docs.npmjs.com/
 
 ---
 
 ## Languages
 ### Python 3
 
----
++ Mac
++ Linux
+#### Install  
+$ `sudo apt install python3`
 
+### Launch the Python 3 interpreter  
+$ `python3`
 
+#### Exit the command line with:
+$ `quit()`
+
++ Windows
 
 ---
 
@@ -40,6 +64,10 @@ https://www.slant.co/topics/1843/~windows-package-managers
 Use the Flash Drive
 ### VIM
 https://www.vim.org/download.php
+
++ Mac
++ Linux
++ Windows
 
 ---
 
